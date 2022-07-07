@@ -44,7 +44,7 @@
     "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-commonjs": "9.3.4",
     "rollup-plugin-node-resolve": "4.2.4",
-    "rollup-plugin-peer-deps-external": "2.2.2",
+    "rollup-plugin-peer-deps-external": "2.2.4",
     "rollup-plugin-typescript2": "0.19.3",
     "rollup-plugin-url": "2.2.4",
     "typescript": "3.8.3"
