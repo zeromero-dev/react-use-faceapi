@@ -47,6 +47,6 @@
     "rollup-plugin-peer-deps-external": "2.2.2",
     "rollup-plugin-typescript2": "0.19.3",
     "rollup-plugin-url": "2.2.4",
-    "typescript": "3.8.3"
+    "typescript": "3.9.10"
   }
 }
